@@ -1,0 +1,34 @@
+body{
+	background-image:url("bg.svg");
+	background-size:150%;
+	overflow:hidden;
+	background-repeat:no-repeat;
+}
+
+.canon{
+	position:absolute;
+	width:140px;
+}
+
+.barrel{
+	position:absolute;
+	width:20px;
+	z-index: -1;
+}
+
+.bullet{
+	position:absolute;
+	z-index: -1;
+	width:10px;
+}
+
+.heli{
+	position:absolute;
+	width:100px;
+	
+}
+
+.trooper{
+		position:absolute;
+	width:50px;
+}
